@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/), advised by Dr. [Hao Zhang](https://hcr.cs.umass.edu/people/hzhang/) in the [Human-Centered Robotics Laboratory (HCRLab)](https://hcr.cs.umass.edu/). My research focuses on adaptive coordination and collaboration in real-world multi-robot systems. I explore graph learning for team coordination, reinforcement learning and diffusion policies for decision-making, and neuro-symbolic methods for safe robot operation.
+I am a Ph.D. student in Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/), advised by Dr. [Hao Zhang](https://hcr.cs.umass.edu/people/hzhang/) in the [Human-Centered Robotics Laboratory (HCRLab)](https://hcr.cs.umass.edu/). My research focuses on adaptive coordination and collaboration in real-world multi-robot systems. I explore graph learning for team coordination, reinforcement learning and diffusion policies for decision-making, and neuro-symbolic methods for safe robot operation. Before joining UMass Amherst, I earned my bachelor’s degree in Computer Science from the [University of California, Davis](https://cs.ucdavis.edu/).
 
 
 News
