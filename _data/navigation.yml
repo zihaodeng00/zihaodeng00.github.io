@@ -23,10 +23,6 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "CV"
-    url: /files/resume.pdf
-    new_tab: true
-
   # - title: "CV"
   #   url: /cv-json/
 
